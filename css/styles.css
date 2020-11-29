@@ -1,0 +1,19 @@
+
+body {
+    font-size: 22px;
+    font-family: monospace, sans-serif;
+    padding-top: 68px;
+}
+
+.less-opaque {
+    opacity: .95;
+}
+
+ul a:hover {
+    background-color: #edf285;
+}
+
+.shoe-image {
+    height: 250px;
+}
+
